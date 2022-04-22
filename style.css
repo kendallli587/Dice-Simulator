@@ -1,0 +1,17 @@
+html {
+    text-align: center;
+    background-color: lightblue;
+    padding: 80px;
+}
+
+body {
+    background-color: gray;
+    padding: 25px;
+    border-radius: 30px;
+}
+
+button {
+    background-color: rgb(138, 21, 21);
+    color: white;
+    border-radius: 30px;
+}
